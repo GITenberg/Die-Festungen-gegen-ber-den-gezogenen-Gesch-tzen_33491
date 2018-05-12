@@ -1,0 +1,32 @@
+_repo: Die-Festungen-gegen-ber-den-gezogenen-Gesch-tzen_33491
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Prittwitz, M. von (Moritz)
+    aliases:
+    - Gaffron, Moritz Karl Ernst von Prittwitz und
+    - Prittwitz, Moritz von
+    - Prittwitz, Moriz von
+    - Von Prittwitz, M. (Moritz)
+    birthdate: 1795
+    deathdate: 1885
+    gutenberg_agent_id: '35162'
+    url: http://www.gutenberg.org/2009/agents/35162
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2010-08-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33491'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fortification'
+- !lcc 'UG'
+title: Die Festungen gegenüber den gezogenen Geschützen
+url: http://www.gutenberg.org/ebooks/33491
